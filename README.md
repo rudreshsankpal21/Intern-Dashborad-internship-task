@@ -44,7 +44,12 @@ intern-dashboard/
 ├── server/ # Backend (Node + Express)
 │ ├── server.js
 │ └── package.json
+|
 │
+├── screenshots
+| ├── login page.png
+│ └── Dummy data.png
+|
 └── README.md
 
 ```
@@ -58,6 +63,18 @@ PORT=3000
 ```
 
 ---
+
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+
+<img src="./screenshots/login page.png" width="600" alt="Login Page" />
+
+---
+
+### 📊 Dashboard Page (Dummy Data)
+
+<img src="./screenshots/Dummy data.png" width="600" alt="Dashboard Page" />
 
 ## 📁 Extra Notes
 
